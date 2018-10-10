@@ -1,0 +1,6 @@
+c:\users\ffayomi\documents\visual studio 2013\Projects\InClassApp4\InClassApp4\bin\Debug\InClassApp4.exe.config
+c:\users\ffayomi\documents\visual studio 2013\Projects\InClassApp4\InClassApp4\bin\Debug\InClassApp4.exe
+c:\users\ffayomi\documents\visual studio 2013\Projects\InClassApp4\InClassApp4\bin\Debug\InClassApp4.pdb
+c:\users\ffayomi\documents\visual studio 2013\Projects\InClassApp4\InClassApp4\obj\Debug\InClassApp4.csprojResolveAssemblyReference.cache
+c:\users\ffayomi\documents\visual studio 2013\Projects\InClassApp4\InClassApp4\obj\Debug\InClassApp4.exe
+c:\users\ffayomi\documents\visual studio 2013\Projects\InClassApp4\InClassApp4\obj\Debug\InClassApp4.pdb
