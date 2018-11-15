@@ -1,0 +1,6 @@
+c:\users\ffayomi\documents\visual studio 2013\Projects\InClassWeek10\InClassWeek10\bin\Debug\InClassWeek10.exe.config
+c:\users\ffayomi\documents\visual studio 2013\Projects\InClassWeek10\InClassWeek10\bin\Debug\InClassWeek10.exe
+c:\users\ffayomi\documents\visual studio 2013\Projects\InClassWeek10\InClassWeek10\bin\Debug\InClassWeek10.pdb
+c:\users\ffayomi\documents\visual studio 2013\Projects\InClassWeek10\InClassWeek10\obj\Debug\InClassWeek10.csprojResolveAssemblyReference.cache
+c:\users\ffayomi\documents\visual studio 2013\Projects\InClassWeek10\InClassWeek10\obj\Debug\InClassWeek10.exe
+c:\users\ffayomi\documents\visual studio 2013\Projects\InClassWeek10\InClassWeek10\obj\Debug\InClassWeek10.pdb
